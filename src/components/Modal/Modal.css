@@ -15,14 +15,14 @@
 
 .ModalOpen {
     animation-name: openModal;
-    animation-duration: 1400ms;
+    animation-duration: 400ms;
     animation-timing-function: ease-out;
     animation-fill-mode: forwards;
 }
 
 .ModalClose {
     animation-name: closeModal;
-    animation-duration: 1400ms;
+    animation-duration: 400ms;
     animation-timing-function: ease-out;
     animation-fill-mode: forwards;
 }
